@@ -4,7 +4,7 @@ The project was created to simplify string storage and facilitate their modifica
 
 ## Example
 
-### 1. Create your language files (e.g., `ru.json`)
+### 1. Create your language files (e.g., `ru.ts`)
 ```typescript
 export default {
   "translation.test": "Translation Test module started."
